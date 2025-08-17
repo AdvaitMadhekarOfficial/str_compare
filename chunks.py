@@ -10,7 +10,7 @@ strings = list()
 
 strings.append("The quick brown fox jumped over the lazy dog.")
 strings.append('The quick brown dog jumped over the lazy fox.')
-strings.append('What is this going to do?? Idk lol, let\'s see what happens to the lazy dog!')
+strings.append('What will this do? Lazy dogs are lazy foxes.')
 
 #break each string into chunks
 for i in range(len(strings)):
